@@ -177,13 +177,13 @@ body{
 #product1{
     padding: 50px 50px;
     text-align: center;
-    background-color: #39242b;
+    background-color: #191013;
 }
 
 #product1 .pro{
     width: 23%;
     min-width: 250px;
-    padding: 10px 20px;
+    padding: 20px 20px;
     border: 1px solid #f7eef1;
     border-radius: 25px;
     cursor: pointer;
@@ -203,7 +203,7 @@ body{
 
 #product1 .pro .des{
     text-align: start;
-    padding: 10px 0;
+    padding: 10px 10px;
 }
 
 #product1 .pro .des span{
