@@ -46,7 +46,7 @@ body{
     width: 100%;
 }
 
-/* Header Start */
+/** Header Start */
 
 #header {
     display: flex;
@@ -91,4 +91,17 @@ body{
     position: absolute;
     bottom: -4px;
     left: 20px;
+}
+
+/** Home Page*/
+
+#hero {
+    background-image: url("img/a.png");
+    background-color: #110d0ff8;
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-position: top 25% rifght 0;
 }
